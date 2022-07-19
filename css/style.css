@@ -674,7 +674,7 @@ h6 { font-size: 16px; }
 }
 .cavani_tm_about .biography .right ul li{
 	margin: 0px 0px 8px 0px;
-	width: 100%;
+	width: 105%;
 	float: left;
 }
 .cavani_tm_about .biography .right ul li:last-child{
@@ -1983,7 +1983,7 @@ h6 { font-size: 16px; }
  	height: 100%;
 	top: 0;
  	left: 0;
-	background-image: url("..//img/about/5.jpg");
+	background-image: url("..//img/about/Afiq.jpg");
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-position: center;
